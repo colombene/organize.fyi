@@ -14,12 +14,14 @@ A list of recent labor organizing efforts.
 - [Target Workers United](https://twitter.com/TGTWorkersUnite)
 - [Warehouse Workers Stand Up](https://twitter.com/WWorkersStandUp)
 
-# Gig
+# Gig / Rideshare
 
 - [Gig Workers Rising](https://twitter.com/GigWorkersRise) - A community of app and platform workers organizing for better wages, working conditions and jobs
+- [ShiptShopper](https://twitter.com/ShopperShipt)
 - [Mobile Workers Alliance](https://twitter.com/mobile_alliance) - Mobile professionals behind the success of apps like Uber, Lyft, Postmates, and more
 - [Philadelphia Drivers Union](https://twitter.com/PhlDriversUnion)
 - [Rideshare Drivers United](https://twitter.com/_drivers_united) - An independent, worker-led organization of rideshare drivers uniting for fair pay & a voice on the job
+- [Chicago Rideshare Advocates](https://twitter.com/ChicagoRidesha1)
 
 # Tech
 
@@ -59,20 +61,19 @@ A list of recent labor organizing efforts.
 
 # Art
 
-- https://twitter.com/newmuseum_union
+- [New Museum Union](https://newmuseumunion.org/)
 - [The New School Labor Coalition](https://twitter.com/TNSLCoalition)
 
 # Grocery
 
-- https://twitter.com/TraderJoesUnion
+- [Trader Joe’s United](https://traderjoesunited.org/)
 - [Whole Worker](https://twitter.com/WholeWorkerWFM)
 
 # Food/drink
 
 - [Starbucks Solidarity Movement](https://twitter.com/StarbucksSolid1)
 - https://twitter.com/fishtownlocal1
-- https://twitter.com/BVWU_IWW
-- https://twitter.com/TartineUnion
+- [Tartine Union](https://twitter.com/TartineUnion)
 - [Burgerville Workers Union](https://twitter.com/BVWU_IWW)
 - [FastFoodRights / McStrike](https://twitter.com/FastfoodRights) - Campaign initiated by the Baker's Food and Allied Workers Union (BFAWU)
 
@@ -159,25 +160,24 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 # Policy
 
 - [Indivisible Union](https://twitter.com/IndivisiUnion) - Staff union for [Indivisible](https://indivisible.org/). Organized with Washington-Baltimore News Guild Local 32035.
-- [Sunrise Movement Staff Union](https://twitter.com/smvmtworkers/status/1338964332223356931)
-- https://twitter.com/CPPP_TX
+- [Sunrise Movement Staff Union](https://twitter.com/smvmtworkers)
+- [Every Texan](https://twitter.com/EveryTxn)
 
 # Non-profit
 
 - [ALDF United](https://twitter.com/ALDFUnited) - Union for Animal League Defense Fund
-- https://twitter.com/GroundworkU
-- https://twitter.com/jstreetunion
-- https://twitter.com/SplcUnion
+- [Groundwork Union](https://twitter.com/GroundworkU)
+- [J Street Workers Union](https://twitter.com/jstreetunion)
+- [Southern Poverty Law Center Union](http://splcunion.org/)
 - https://www.vice.com/en_us/article/5dzqxn/greenpeace-workers-launch-union-drive
-- https://twitter.com/Nor_Cal_United
+- [ACLU Nor_Cal_United](https://twitter.com/Nor_Cal_United)
 - [ACLU Staff United](https://twitter.com/ACLUStaffUnited)
-- https://twitter.com/ACLUKSUnited
+- [ACLU of Kansas United](https://twitter.com/ACLUKSUnited)
 
 # Games
 
-- https://twitter.com/GameWorkers
+- [Game Workers Unite](https://www.gameworkersunite.org/)
 - https://twitter.com/GWU_Ireland
-- https://twitter.com/RiotersAFA
 - https://twitter.com/GWU_Argentina
 - https://twitter.com/GWU_Italy
 - https://twitter.com/GWU_DC
@@ -202,22 +202,21 @@ The majority of newsrooms are organized under the NewsGuild-CWA banner, followed
 - https://twitter.com/GWU_Chicago
 - https://twitter.com/GWU_Toronto
 - https://twitter.com/GWU_Austin
+- [Game Workers of Southern California](https://gameworkerssocal.org/)
 
 # Co-ops
 
-- https://twitter.com/PPU512
+- [Pixel Pushers Union 512](https://twitter.com/PPU512) is a worker-owned game dev cooperative
 
 # Unsorted
 
 - [San Bernardino Airport Communities](https://twitter.com/SBACommunities)
-- https://twitter.com/IHEGuild
-- https://twitter.com/afa_cwa
-- https://twitter.com/NYTWA
-- https://twitter.com/hwanola
-- https://twitter.com/ChicagoRidesha1
+- [Inside Higher Ed Guild](https://twitter.com/IHEGuild)
+- [Association of Flight Attendants-CWA](https://www.afacwa.org/)
+- [NY Taxi Workers Alliance](https://www.nytwa.org/)
+- [New Orleans Hospitality Workers Alliance](https://twitter.com/hwanola)
 - https://twitter.com/tcgunion
 - https://twitter.com/workingwa
-- https://twitter.com/ShopperShipt
 - https://twitter.com/SVRising
 - https://twitter.com/SWA_solidarity
 - https://twitter.com/wedriveprogress
